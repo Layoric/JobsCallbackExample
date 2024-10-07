@@ -20,5 +20,6 @@
   },
   "exclude": [
     "node_modules"
-  ]
+  ],
+  "test":"ghp_0000000000RANDOMBURNERPASS0000000000"
 }
