@@ -20,6 +20,5 @@
   },
   "exclude": [
     "node_modules"
-  ],
-  "test":"tPBRV4e1BX+6cFpb8w8veN0aDwS9fwcsyhTgTiY0"
+  ]
 }
